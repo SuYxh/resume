@@ -2,11 +2,17 @@
 
 使用原生小程序进行开发！
 
+### 演示地址
+
+![](http://qn.huat.xyz/content/简历小程序.jpg)
+
 ### 效果图
 
 <img src="http://qn.huat.xyz/content/20200524153813.png" style="zoom:33%;" />
 
+### 微信公众号
 
+![](http://qn.huat.xyz/content/dqd.jpg)
 
 ### 待改进
 
